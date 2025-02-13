@@ -1,2 +1,4 @@
 origin
 https://github.com/srinivasan-subbiah/aws-serverless-workshops.git
+origin
+https://github.com/srinivasan-subbiah/aws-serverless-workshops.git
