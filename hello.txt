@@ -3,8 +3,3 @@ Hello World
 # Dummy AWS KMS Key ARN
 arn:aws:kms:us-east-1:123456789012:key/12345678-1234-1234-1234-123456789abc
 
-# Dummy AWS Access Key ID (20 characters, uppercase alphanumeric)
-ASIAY34FZKBOKMUTVV7A
-
-# Dummy AWS Secret Access Key
-aB1cD2eF3gH4iJ5kL6mN7oP8qR9sT0uV1wX2yZ3x
